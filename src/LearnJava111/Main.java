@@ -6,7 +6,7 @@ public class Main {
         System.out.print("Hello");
         System.out.print(" World");
         System.out.println("!");
-        System.out.print("Testing!");
+        System.out.println("Testing!");
         System.out.println("\nVolkswagen\nJetta 6");
         // учу JAVA =)
         /*
